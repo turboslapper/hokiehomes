@@ -23,6 +23,7 @@ HokieHomes is a web application designed to help incoming students at Virginia T
 - **Express**: A fast, unopinionated, minimalist web framework for Node.js, used to build the API for HokieHomes.
 - **MongoDB**: A NoSQL database used for storing dorm reviews, ratings, and other dynamic content in the application.
 
+
 ## Author
 - **Backend**: Azraf and Troy
-- **Frontend**: Aidan and Jarien
+- **Frontend**: Aidan and Jairen
