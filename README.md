@@ -25,4 +25,4 @@ HokieHomes is a web application designed to help incoming students at Virginia T
 
 ## Author
 - **Backend**: Azraf and Troy
-- **Frontend**: Aidan and Jarien
+- **Frontend**: Aidan and Jairen
