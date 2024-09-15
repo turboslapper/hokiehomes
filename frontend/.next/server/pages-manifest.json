@@ -1,0 +1,8 @@
+{
+  "/DashboardPage/DashboardPage": "pages/DashboardPage/DashboardPage.js",
+  "/ErrorPage/ErrorPage": "pages/ErrorPage/ErrorPage.js",
+  "/HomePage/HomePage": "pages/HomePage/HomePage.js",
+  "/_error": "pages/_error.js",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js"
+}
